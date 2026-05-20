@@ -1,0 +1,16 @@
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\ClientHandler.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\config\ServerConfig.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\db\ConnectionPool.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\db\DatabaseManager.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\repository\DonationRepository.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\repository\FundRepository.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\repository\ProjectRepository.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\repository\ReportRepository.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\repository\UserRepository.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\Server.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\service\DonationService.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\service\FundService.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\service\ProjectService.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\service\ReportService.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\service\UserService.java
+B:\курсач псп\charity-system\server\src\main\java\by\charity\server\ThreadPoolManager.java
